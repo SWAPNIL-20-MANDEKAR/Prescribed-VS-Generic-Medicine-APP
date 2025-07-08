@@ -1,0 +1,1 @@
+https://api.fda.gov/drug/label.json
